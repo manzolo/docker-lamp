@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-MAINTAINER Dan Pupius <dan@pupi.us>
+MAINTAINER Andrea Manzi <manzolo@libero.it>
 
 RUN apt-get update
 RUN apt-get -y upgrade
